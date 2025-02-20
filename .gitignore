@@ -3,6 +3,7 @@
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
+*.csproj
 *.txt
 
 # Ignore compiled files and files built by Visual Studio
