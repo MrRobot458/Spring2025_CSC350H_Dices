@@ -7,4 +7,7 @@ Date: 02/20/2025
 Dice Lab
 */
 
+/*
+Class: Dice
 
+*/
